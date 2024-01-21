@@ -1,2 +1,2 @@
 # Data-Persistence-Project
- DData Persistence example for the Unity Junior Programmer pathway.
+ Data Persistence example for the Unity Junior Programmer pathway (Junior Programmer: Manage scene flow and data).
